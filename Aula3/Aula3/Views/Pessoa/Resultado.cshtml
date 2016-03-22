@@ -1,0 +1,30 @@
+﻿
+@model Aula3.Models.Pessoa
+@{
+    ViewBag.Title = "pós login";
+}
+
+<h2>pós login</h2>
+<fieldset>
+    <legend>Pessoa</legend>
+    <div class="display-label">
+        @Html.DisplayFor(model=>model.nome)
+    </div>
+      
+    <div class="display-label">
+        @Html.DisplayFor(model => model.observacao)
+    </div>
+   
+    <div class="display-label">
+        @Html.DisplayFor(model => model.Idade)
+    </div>
+    <div class="display-label">
+        @Html.DisplayFor(model => model.Email)
+    </div>
+    <div class="display-label">
+        @Html.DisplayFor(model => model.Login)
+    </div>
+    <p>
+        @Html.ActionLink("Voltar","Index")
+    </p>
+</fieldset>
