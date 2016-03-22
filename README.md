@@ -8,7 +8,7 @@ This project was made for develop in C# and html with unic elements of ASP.NET
 - Was done it was made a user registration list with the informations
 - Data necessary required:Name,note,age,E-mail,login,password
 - Age restrictions: must be 18 years to a maximum of 50 years
-- Specific restrictions: If the mail is not in exemplo@exemplo.com format is treated as invalid
+- Specific restrictions: If the mail is not in format exemplo@exemplo.com is treated as invalid
 - Login is only letters and at least 5 characters
 - Passwords must be the same (password and confirm password) if is not is treated as invalid
 
