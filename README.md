@@ -24,14 +24,14 @@ Projeto para praticar a lingaguem C# e html com elementos unicos do ASP.NET
 Objectives/Objetivo
 =========
 
-Learn and practice the concepts of C # and HTML with ASP.NET with a new Visual Studio tool.
-Aprender e práticar os conceitos do C# e html  com ASP.NET com uma nova ferramenta Visual Studio. 
+- Learn and practice the concepts of C # and HTML with ASP.NET with a new Visual Studio tool.
+- Aprender e práticar os conceitos do C# e html  com ASP.NET com uma nova ferramenta Visual Studio. 
 
 References/Material de refêrencia
 ======================
 
-[Youtube Channel] https://www.youtube.com/user/cleytonferrari
-[Canal do youtube] https://www.youtube.com/user/cleytonferrari
+- [Youtube Channel] https://www.youtube.com/user/cleytonferrari
+- [Canal do youtube] https://www.youtube.com/user/cleytonferrari
 
 IDE
 ====
@@ -41,8 +41,8 @@ Visual Studio
 Creditos
 =========
 
-Developer: Jefferson K.Schmitt
-Programador: Jefferson K. Schmitt
+- Developer: Jefferson K.Schmitt
+- Programador: Jefferson K. Schmitt
 
 license/Licença
 ========
